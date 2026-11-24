@@ -1,0 +1,6 @@
+[
+    {"name": "Anna", "grades": [5, 3, 4, 3]},
+    {"name": "Ivan", "grades": [5, 4, 4, 2]},
+    {"name": "Sergey", "grades": [3, 5, 4, 5]},
+    {"name": "Maria", "grades": [4, 3, 2, 4]}
+]
